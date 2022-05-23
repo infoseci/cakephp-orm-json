@@ -29,7 +29,7 @@
       "filter"
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^8.0",
         "cakephp/cakephp": "^3.5|^4",
         "adbario/php-dot-notation": "^2.0"
     },
