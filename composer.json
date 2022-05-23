@@ -1,5 +1,5 @@
 {
-    "name": "liqueurdetoile/cakephp-orm-json",
+    "name": "infoseci/cakephp-orm-json",
     "description": "Cakephp plugin to provide easy control over JSON type fields in database",
     "type": "cakephp-plugin",
     "license": "MIT",
